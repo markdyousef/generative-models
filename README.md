@@ -1,6 +1,6 @@
 # Generative Models
 
 ## Notebooks
-* GAN
-* DCGAN
-* WGAN
+* GAN (Keras)
+* DCGAN (Keras)
+* WGAN (Pytorch)
